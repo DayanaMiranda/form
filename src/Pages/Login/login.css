@@ -1,0 +1,35 @@
+body {
+    background-color: #DFE4EA;
+}
+
+.container-login {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.button-login {
+    width: 206px;
+    height: 40px;
+    background-color: #F0572D;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.login-title {
+    color: #F0572D;
+}
+
+.form-field {
+    width: 448px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin: 1em;
+}
